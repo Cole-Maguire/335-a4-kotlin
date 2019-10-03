@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">The Bob Duran Museum of Computing</string>
+    <string name="icon_name">BDMC</string>
+    <string name="title_activity_html_comment">htmlComment</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_comment">Comments</string>
+    <string name="tab_news">News</string>
+    <string name="tab_displays">Displays</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_shop">Shop</string>
+
+    <string name="home_text">You can learn more about the displays here. If you are intrigued by what you find here and
+        live close to Auckland, or are visiting the city, please feel free to drop in to the school and see the displays
+        for yourself. We are located at the University on Princes Street and are always open during normal office hours
+        and also in the evenings and on the weekends when classes are in session
+    </string>
+
+    <string name="title_activity_news_story">NewsStory</string>
+    <string name="button">Open in Chrome</string>
+    <string name="title_activity_comment_post">CommentPost</string>
+    <string name="post_comment_title">Post a Comment</string>
+    <string name="post_comment_name">Enter your name</string>
+    <string name="post_comment_comment">Enter a comment</string>
+    <string name="post_comment_button">Post</string>
+    <string name="shop_button">Buy this item</string>
+</resources>
